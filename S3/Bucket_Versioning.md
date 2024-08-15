@@ -25,3 +25,5 @@ Enabling bucket version on S3 Bucket
 
 <img width="351" alt="image" src="https://github.com/user-attachments/assets/9221424c-0083-46ff-a33a-0b30347dff06">
 
+## Note
+Once Bucket Versioning is enabled, it can not be disabled again. It can only be suspended.
